@@ -1,0 +1,37 @@
+a {
+    font-size: 64px;
+}
+
+a:hover {
+    background-color: royalblue;
+}
+
+input:hover {
+    border: 2px solid royalblue;
+}
+
+a:focus {
+    background-color: seagreen;
+}
+
+input:focus {
+    background-color: royalblue;
+}
+a:active {
+    background-color: skyblue;
+    color: teal;
+}
+
+input:active {
+    background-color: skyblue;
+}
+input {
+    height: 64px;
+    font-size: 68px;
+    text-align: center;
+    margin-top: 16px;
+}
+
+a:visited {
+    text-decoration: line-through;
+}
